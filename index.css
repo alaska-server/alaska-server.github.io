@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p, h1, h2 {
+    color: red;
+}
+
+input, button {
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    color: red;
+    text-align: center;
+    border-color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+::placeholder {
+    color: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: rgb(0, 255, 0);
+    text-decoration: none;
+}
+
+div {
+    color: red;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: red;
+}
