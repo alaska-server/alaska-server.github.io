@@ -31,3 +31,8 @@ a {
 div {
     color: red;
 }
+
+video {
+    border-radius: 15px;
+    border: 2px solid red;
+}
