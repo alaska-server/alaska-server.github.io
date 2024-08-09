@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(60, 60, 60);
+    text-align: center;
+}
+
+p, h1, h2, h3 {
+    color: rgb(230, 230, 230);
+}
+
+video, img {
+    border-radius: 10px;
+}
